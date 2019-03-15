@@ -306,6 +306,17 @@ font-family: 'Open Sans', sans-serif;
 	display: flex;
 	justify-content: center;
 }
+.team-part .team-text-content p{
+	font-size: 14px;
+}
+.team-part .team-text-content h5:hover{
+	color: #5bc5f4;
+}
+.team-part .team-text-content h5{
+	font-size: 16px;
+	font-weight: bold;
+	transition: all linear .3s;
+}
 
 /*our team part ends*/
 
